@@ -116,4 +116,4 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ## Inter IIT Project
 
-This project secured 5th place in Inter IIT Tech Meet 12.0 at IIT Madras. Report that was presented is saved in Reports Folder.
+This project secured 5th place in Inter IIT Tech Meet 12.0 at IIT Madras. Report that was presented is saved in Report Folder.
